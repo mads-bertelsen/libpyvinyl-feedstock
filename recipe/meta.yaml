@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/PaNOSC-ViNYL/libpyvinyl/archive/v{{ version }}.tar.gz
-  sha256: 1e83f89b3b702d6b527bba6a2efd64b4c76cad23ad8a8c305ad356381bcd4e93
+  sha256: 6f969c8ba4f6f26c11a1a50b3f6644e3c94b4409f9c2f22f2e188b4ff060208e
 
 build:
   noarch: python
